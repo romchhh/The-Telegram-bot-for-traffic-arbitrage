@@ -72,6 +72,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 
 ## Contact
-For any questions or support, please contact [your_email@example.com](mailto:roman.fedoniuk@gmail.com).
+For any questions or support, please contact [roman.fedoniuk@gmail.com](mailto:roman.fedoniuk@gmail.com).
 
 This README provides an overview of the Traffic Arbitrage Telegram Bot, including its features, installation instructions, and usage guidelines. Feel free to contribute and help improve the bot!
